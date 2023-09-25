@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_prueba"
+  site-url: "https://msalazarcgeo.github.io/nbdev_prueba"
+  description: "Esto es un repositorio de prueba para el curso de nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/msalazarcgeo/nbdev_prueba"

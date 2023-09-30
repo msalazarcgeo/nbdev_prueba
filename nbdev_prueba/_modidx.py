@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://msalazarcgeo.github.io',
                 'git_url': 'https://github.com/msalazarcgeo/nbdev_prueba',
                 'lib_path': 'nbdev_prueba'},
-  'syms': {'nbdev_prueba.core': {'nbdev_prueba.core.foo': ('core.html#foo', 'nbdev_prueba/core.py')}}}
+  'syms': { 'nbdev_prueba.core': { 'nbdev_prueba.core.foo': ('core.html#foo', 'nbdev_prueba/core.py'),
+                                   'nbdev_prueba.core.saludo': ('core.html#saludo', 'nbdev_prueba/core.py'),
+                                   'nbdev_prueba.core.saludo_a': ('core.html#saludo_a', 'nbdev_prueba/core.py')}}}

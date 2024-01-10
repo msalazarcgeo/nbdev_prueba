@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_prueba",
+    "section": "",
+    "text": "Este archivo se convierte en el README y también en el indice de la documentación de la biblioteca."
+  },
+  {
+    "objectID": "index.html#instalación",
+    "href": "index.html#instalación",
+    "title": "nbdev_prueba",
+    "section": "Instalación",
+    "text": "Instalación\npip install nbdev_prueba"
+  },
+  {
+    "objectID": "index.html#como-usar",
+    "href": "index.html#como-usar",
+    "title": "nbdev_prueba",
+    "section": "Como usar",
+    "text": "Como usar\nPoner ejemplos básicos de como se utiliza la biblioteca\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "arbol.html",
+    "href": "arbol.html",
+    "title": "Ejemplo de la implementación de un árbol en python",
+    "section": "",
+    "text": "#\\ hide\nfrom nbdev.showdoc import *"
+  },
+  {
+    "objectID": "arbol.html#clase-nodo",
+    "href": "arbol.html#clase-nodo",
+    "title": "Ejemplo de la implementación de un árbol en python",
+    "section": "Clase nodo",
+    "text": "Clase nodo\nPrimero se hace la clase básica de un nodo\n\n\nnodo\n\n nodo ()\n\nEsta clase es un nodo con dos hijos\n\n#\\hide\nnodo_basico = nodo()\nprint(nodo_basico.der)\n\nNone\n\n\n\ntorpo = nodo('au')\n\nTypeError: nodo.__init__() takes 1 positional argument but 2 were given\n\n\nA partir de la clase nodo vamos a hacer una nueva clase llamada nodo_dato la"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "The autoreload extension is already loaded. To reload it, use:\n  %reload_ext autoreload\n\n\n\nsource\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsaludo\n\n saludo ()\n\nImprime Hola\n\nsaludo()\n\nHola!\n\n\n\nsaludo_a('Raul')\n\nHola! Raul\nEspero que te encuentres bien\n\n\n\nsource\n\n\nsaludo_a\n\n saludo_a (to)\n\nImprime hola a un nombre"
+  }
+]
